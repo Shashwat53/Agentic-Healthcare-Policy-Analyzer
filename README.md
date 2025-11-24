@@ -63,7 +63,7 @@ Query → Classify Domain → Retrieve (FAISS+BM25) → Generate Answer
 ## Example Output
 
 ```
-Query: What are prior authorization requirements for specialty medications?
+Query: What are the prior authorization requirements for specialty medications?
 Category: PHARMACEUTICAL | Confidence: 91.2% | Status: Verified
 
 ANSWER:
@@ -189,7 +189,7 @@ Multi-signal: verification (50%) + classification (30%) + sources (20%)
 | Avg Response Time | 3.2s |
 | Confidence Calibration | 92% |
 
-Tested on 500-page healthcare policy corpus.
+Tested on a 500-page healthcare policy corpus.
 
 ---
 
@@ -260,7 +260,7 @@ MIT License - see LICENSE file
 ## Contact
 
 - GitHub Issues: [Report bugs or request features](https://github.com/shashwatkumar/agentic-healthcare-policy-analyzer/issues)
-- Email: shashwat.kumar@columbia.edu, sk5476@columbia.edu
+- Email: sk5520@columbia.edu, sk5476@columbia.edu
 
 ---
 
