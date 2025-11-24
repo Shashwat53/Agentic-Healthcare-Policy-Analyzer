@@ -250,7 +250,6 @@ MIT License - see LICENSE file
 ```bibtex
 @software{healthcare_policy_analyzer_2025,
   title={Agentic Healthcare Policy Analyzer},
-  author={Kumar, Shashwat},
   year={2025},
   url={https://github.com/shashwatkumar/agentic-healthcare-policy-analyzer}
 }
