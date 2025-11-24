@@ -261,8 +261,7 @@ MIT License - see LICENSE file
 ## Contact
 
 - GitHub Issues: [Report bugs or request features](https://github.com/shashwatkumar/agentic-healthcare-policy-analyzer/issues)
-- Email: shashwat.kumar@columbia.edu
-- LinkedIn: [Shashwat Kumar](https://linkedin.com/in/shashwatkumar)
+- Email: shashwat.kumar@columbia.edu, sk5476@columbia.edu
 
 ---
 
